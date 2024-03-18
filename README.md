@@ -1,6 +1,6 @@
 # design_ui
 
-A new Flutter project.
+A new Flutter project.I picked its design from youtube.And,try to code this design by myself.
 
 ## Getting Started
 
